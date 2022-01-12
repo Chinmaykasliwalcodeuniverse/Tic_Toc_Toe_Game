@@ -162,6 +162,9 @@ nav a{
 }
 #footer .social-item {
 	height: 40px;
+	width: 40px;
+	margin: 0 15px;
+    display: flex;
 }
 .footer-container{ 
     display: flex;
