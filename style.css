@@ -137,3 +137,29 @@ nav a{
         grid-template-columns: repeat(3, 20vw);
     }
 }
+
+#footer {
+	background-image: linear-gradient(60deg, #740023 0%, #030a13 100%);
+}
+#footer .footer {
+	min-height: 10px;
+	flex-direction: column;
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+#footer h2 {
+	color: rgb(218, 217, 233);
+	font-weight: 50;
+	font-size: 1.8rem;
+	letter-spacing: 0.1rem;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    font-family:'Lobster Two', cursive;;
+}
+#footer .social-icon {
+	display: flex;
+	margin-bottom: 20px;
+}
+#footer .social-item {
+	height: 40px;
+}
