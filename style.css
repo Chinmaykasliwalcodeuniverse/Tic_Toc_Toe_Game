@@ -51,7 +51,7 @@ nav a{
     margin-top: 500px;
     font-family: 'Architects Daughter', cursive;  
     color: rgb(145, 14, 58);
-    
+    font-size: 3rem;
 }
 .container{
     display: grid;
