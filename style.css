@@ -48,7 +48,7 @@ nav a{
 .gameContainer h1{ 
     display: flex;
     justify-content: center;
-    margin-top: 200px;
+    margin-top: 300px;
     font-family: 'Architects Daughter', cursive;  
     color: rgb(0, 0, 0);
     font-size: 3rem;
