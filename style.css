@@ -131,7 +131,7 @@ nav a{
     }
     .gameInfo h1{
         font-size: 1.5rem;
-        font-family: 'Autour One', cursive;
+        font-family: 'Autour One',cursive;
     }
     .container { 
         grid-template-rows: repeat(3, 20vw);
